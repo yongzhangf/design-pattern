@@ -1,3 +1,6 @@
+# Build & IDE
+/.idea
+
 # Compiled class file
 *.class
 
