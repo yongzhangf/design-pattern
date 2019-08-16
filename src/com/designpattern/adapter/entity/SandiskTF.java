@@ -9,6 +9,6 @@ public class SandiskTF implements TFCard {
 
     @Override
     public void writeTF(String message) {
-        System.out.println(String.format("Write message[%s] to SanDisk SD card.", message));
+        System.out.println(String.format("Write message[%s] to SanDisk TF card.", message));
     }
 }
